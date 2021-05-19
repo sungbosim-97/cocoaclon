@@ -1,3 +1,3 @@
 # Koko Clone 2021 Update
 
-CSS is difficult
+HTML and CSS are going to be fun
